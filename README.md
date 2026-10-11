@@ -1,6 +1,7 @@
 <div align="center">
 
 <h1>Hi, I'm Oussama!</h1>
+<img width="1024" height="1025" alt="Gemini_Generated_Image_c8lqp8c8lqp8c8lq-Photoroom" src="https://github.com/user-attachments/assets/ac2df297-8a75-4660-afb7-c8a845c074de" />
 
 
 I'm a Full-Stack Development student, exploring AI & ML
